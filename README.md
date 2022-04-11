@@ -68,6 +68,36 @@ Penggunaan operator switch untuk seleksi kondisi
 
 ![img](ss/pict18.png)
 
+### Pembuatan Form
+
+Form input
+
+![img](ss/pict19.png)
+
+![img](ss/pict20.png)
+
+Form Button.
+
+![img](ss/pict21.png)
+
+![img](ss/pict22.png)
+
+### Html DOM
+
+Pilihan ini menggunakan checkbox dengan perhitungan otomatis
+
+![img](ss/pict23.png)
+
+![img](ss/pict24.png)
+
+
+### Pertanyaan dan Tugas 
+
+ 1.Buat script untuk melakukan validasi pada isian form
+
+### Jawaban!
+
+
 
 
 
