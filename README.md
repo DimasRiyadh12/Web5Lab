@@ -26,6 +26,21 @@ Pemakaian Alert sebagai property window.
 
 ![img](ss/pict4.png)
 
+Pemakaian method dalam objek
+
+![img](ss/pict5.png)
+
+![img](ss/pict6.png)
+
+Pemakaian Prompt
+
+![img](ss/pict7.png)
+
+![img](ss/pict8.png)
+
+![img](ss/pict9.png)
+
+
 
 
 
