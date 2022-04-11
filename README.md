@@ -97,6 +97,55 @@ Pilihan ini menggunakan checkbox dengan perhitungan otomatis
 
 ### Jawaban!
 
+Yaitu Membuat validasi nama, No.Telp, Email.
+
+### Nama
+
+Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh : DimasRiyadh (benar), DimasRiyadhjr (salah)
+
+![img](ss/pict25.png)
+
+Penjelasan
+
+ Membuat nama function Alphabet, dengan parameter dinamis yaitu (nilai,pesan)
+ Data yang boleh dimasukkan adalah berupa "a-zA-Z"
+ Jika selain data "a-zA-Z" ini dimasukkan, maka akan muncul pesan Alert "alert(pesan);"
+
+![img](ss/pict26.png)
+
+### No.Telp
+
+Pada bagian ini akan saya berikan validasi berupa hanya angka saja yang boleh di inputkan, contoh: 12345 (benar), 123AB (salah).
+
+![img](ss/pict27.png)
+
+Penjelasan:
+
+ var numberExp = /^[0-9]+$/; merupakan variabel numberExp yang diberi batasan validasi angka 0-9
+ Arti Match pada "if(nilai.value.match(numberExp))" adalah string.match(), mencari string menggunakan Regular Expression (Regex)
+ Jika salah atau inputan tidak benar maka akan ada pesan alert "alert(pesan);"
+
+![img](ss/pict28.png)
+
+### Email
+
+Pada email akan diberikan validasi masih berupa Regular Expression. Contoh: dimasriyadh8291@gmail.com (benar), dimasriyadh8291@.com (salah).
+
+![img](ss/pict29.png)
+
+Penjelasan:
+
+ membuat variabel email " var email = /^([a-zA-Z0-9_.+-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$/; " berupa huruf, angka dan simbol yang diperbolehkan dalam input sebuah email. Jika email salah maka akan ada pesan alert "alert(pesan);"
+
+![img](ss/pict30.png)
+
+### Berikut Penulisan Form yang benar
+
+![img](ss/pict31.png)
+
+![img](ss/pict32.png)
+
+Cukup sekian dan Terimakasih.
 
 
 
