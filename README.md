@@ -10,7 +10,7 @@ Javascript adalah bahasa pemrograman yang awalnya dirancang untuk berjalan di at
 Namun, seiring perkembangan zaman, javascript tidak hanya berjalan di atas browser saja.
 Javascript juga dapat digunakan pada sisi Server, Game, IoT, Desktop, dsb.
 
-### Langkah-Langkah :
+## Langkah-Langkah :
 
 Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 
