@@ -40,6 +40,33 @@ Pemakaian Prompt
 
 ![img](ss/pict9.png)
 
+Pembuatan fungsi dan cara pemanggilannya
+
+![img](ss/pict10.png)
+
+![img](ss/pict11.png)
+
+### Dasar Pemrograman di Javascript
+
+Operasi dasar aritmatika
+
+![img](ss/pict12.png)
+
+![img](ss/pict13.png)
+
+Seleksi kondisi (if..else)
+
+![img](ss/pict14.png)
+
+![img](ss/pict15.png)
+
+Penggunaan operator switch untuk seleksi kondisi
+
+![img](ss/pict16.png)
+
+![img](ss/pict17.png)
+
+![img](ss/pict18.png)
 
 
 
